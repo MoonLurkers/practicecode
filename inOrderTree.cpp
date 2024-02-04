@@ -34,7 +34,7 @@ class Solution {
         }
 
 /* you only have to complete the function given below.  
-Node is defined as  
+Node is defined as the following 
 
 class Node {
     public:
